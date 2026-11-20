@@ -1,0 +1,12 @@
+pyspark>=3.5
+pyarrow>=15
+pandas
+numpy
+faiss-cpu
+sentence-transformers      # encodeur d'embeddings (ex. BAAI/bge-small-en-v1.5)
+huggingface_hub            # commande 'download'
+gradio>=4
+fastapi
+uvicorn
+matplotlib
+reportlab
